@@ -1,0 +1,81 @@
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe.config
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.pdb
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\Tesseract.dll
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.dll
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.dll
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.pdb
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.xml
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.pdb
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.xml
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Main.resources
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Properties.Resources.resources
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.GenerateResource.cache
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CopyComplete
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.exe
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.pdb
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe.config
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.pdb
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.dll
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.dll
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.pdb
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.xml
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.pdb
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.xml
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Main.resources
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Properties.Resources.resources
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.GenerateResource.Cache
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CoreCompileInputs.cache
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.exe
+C:\Users\JH\Downloads\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.pdb
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csprojResolveAssemblyReference.cache
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Main.resources
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Properties.Resources.resources
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.GenerateResource.Cache
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CoreCompileInputs.cache
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.exe
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.pdb
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe.config
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.pdb
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.dll
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.dll
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.pdb
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.xml
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.pdb
+I:\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.xml
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe.config
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\PTCGO_Codes.pdb
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.dll
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.dll
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.pdb
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.xml
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.pdb
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\bin\Debug\zxing.presentation.xml
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csprojAssemblyReference.cache
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Main.resources
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.Properties.Resources.resources
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.GenerateResource.cache
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CopyComplete
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.exe
+C:\Users\Julien\Desktop\PTCGO_Codes 202009\PTCGO CODES-20200903T051749Z-001\PTCGO CODES\PTCGO_Codes 202009\PTCGO_Codes\obj\Debug\PTCGO_Codes.pdb
+F:\QR\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe.config
+F:\QR\PTCGO_Codes\bin\Debug\PTCGO_Codes.exe
+F:\QR\PTCGO_Codes\bin\Debug\PTCGO_Codes.pdb
+F:\QR\PTCGO_Codes\bin\Debug\zxing.dll
+F:\QR\PTCGO_Codes\bin\Debug\zxing.presentation.dll
+F:\QR\PTCGO_Codes\bin\Debug\zxing.pdb
+F:\QR\PTCGO_Codes\bin\Debug\zxing.xml
+F:\QR\PTCGO_Codes\bin\Debug\zxing.presentation.pdb
+F:\QR\PTCGO_Codes\bin\Debug\zxing.presentation.xml
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.csprojResolveAssemblyReference.cache
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.Main.resources
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.Properties.Resources.resources
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.GenerateResource.Cache
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.csproj.CoreCompileInputs.cache
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.exe
+F:\QR\PTCGO_Codes\obj\Debug\PTCGO_Codes.pdb
